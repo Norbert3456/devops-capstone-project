@@ -8,6 +8,7 @@ psycopg2-binary==2.9.3
 python-dotenv==0.20.0
 SQLAlchemy==1.4.46
 Flask-Talisman
+Flask-Cors
 
 # Runtime tools
 gunicorn==20.1.0
